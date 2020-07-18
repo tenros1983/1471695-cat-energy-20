@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Евгений Тимофеев](https://up.htmlacademy.ru/adaptive/20/user/1471695).
-* Наставник: `Неизвестно`.
+* Наставник: [Богдан Онацкого](https://htmlacademy.ru/profile/id606169).
 
 ---
 
